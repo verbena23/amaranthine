@@ -1,0 +1,6 @@
+sh ~/.fehbg &
+compton &
+tint2 &
+
+cd /home/verbena/.conky/Eris
+./conkystart.sh

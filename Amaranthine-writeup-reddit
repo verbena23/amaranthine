@@ -1,0 +1,62 @@
+Amaranthine a dark tone theme for Openbox based on purple and dark grey.
+
+A system wide theme including colours for openbox, Gtk3 and 2, Tint2, conky, Dunst and Rofi. 
+
+This is my first attempt at a complete system wide integrated theme, so please excuse any hiccups.
+
+My system is a bit of a mess at the minute as it is based upon KDE Neon which relies heavily upon Qt. I was happy with KDE but was having some problems with it hanging and being a bit slow in places. I wanted to swap out the distro for Manjaro, but somehow during an update a couple of months ago something called Moki manager was foisted upon me.
+
+I wasn't really sure what it was at the time and I have a funny feeling that a password was requested which for the life of me I cannot remember (probably being a bit worse for wear at the time) and as such I find myself locked out of my own BIOS, unable to change main distro and only able to change DE. This is a pain because Openbox offers limited support for QT theming and so I have had to add extra GTK programmes and libraries to replace some of the default KDE programmes as they just look awful in Openbox.I've tried to get around this , but unfortunately this is beyond my paygrade at the minute, so any hints would be much appreciated.
+
+
+Anyway for what it's worth-
+
+Icons:        Gnome-noble
+
+Openbox theme: modified Dark_Star (edited theme files and added user generated window decorations 
+                                      /home/verbena/.themes/Dark_Star/openbox-3/themerc)
+
+Fonts: Wndows titles- Crystal Cathedral Bold    
+       Firefox font- Pragma Sans               
+       Fixed width:  Monospace Typewriter       
+
+Panels  xfce4-panel (top left) Tint2 (top right) Conky (second top panel and right-hand panel)
+
+Dot files (deadbeef, gtk-3.0, neofetch, oomox, openbox, tint2, rofi, conky, dunst)
+
+
+Gtk theme modified in Oomox is a simple to operate point and click GTK theme modifiying program.
+
+https://github.com/actionless/oomox
+
+Scroll down for installation instructions.
+
+GTk2 user defaults at  /home/username/.gtkrc-2.0
+Gtk3 user css file at  /home/username/.config/gtk-3.0/gtk.css
+
+
+Apply GTK theme with lXAppearance:    sudo apt install lxappearance
+
+
+
+Dotfiles
+
+font files
+https://www.dafont.com/search.php?q=crystal+cathedral
+https://www.dafont.com/search.php?q=pragma+sans
+https://www.dafont.com/search.php?q=monospace+typewriter
+
+
+git account
+
+
+anything else?????
+
+
+
+
+Like I sais this is the first time I've attempte this and used an Imgur* or Git account, so if anything is missing or, of course, if any other constructive criticism could be offered it would be greatly appreciated.
+
+
+Pretty pissed off that i had to open a Google account just to get on to Imgur (even though it's in a fake name. I really didn't want to let Google on my machine- is this normal? It kept returning a 403 error when trying to open with a third party email account).
+
