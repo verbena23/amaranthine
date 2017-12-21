@@ -1,0 +1,148 @@
+#
+#         Openbox theme v1.0 for Amaranthine - a dark purple theme
+#
+#                         Fuck the Tories Edition
+#                    adapted by verbena23 December 2017
+#
+#
+# Window geometry
+
+border.width: 2
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+padding.width: 8
+padding.height: 2
+
+#Menu geometry
+menu.border.width: 2
+menu.overlap.x: 2
+menu.overlap.y: -3
+
+# Border colors
+window.active.border.color: #29142F
+window.inactive.border.color: #29142F
+menu.border.color: #29142F
+menu.separator.color:#29142F
+menu.separator.padding.width: 1
+menu.separator.padding.height: 1
+
+
+window.active.title.separator.color:  #29142F
+window.inactive.title.separator.color: #29142F
+
+# Text shadows
+window.active.label.text.font: shadow=y
+window.inactive.label.text.font: shadow=y
+menu.items.font: shadow=y
+menu.title.text.font: shadow=y
+
+# Window title justification
+window.label.text.justify: left
+
+# Active window
+window.active.title.bg: flat solid
+window.active.title.bg.color: #29142F
+window.active.title.bg.colorTo: #29142F
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #ffffff
+
+window.active.button.unpressed.bg: #650880
+window.active.button.unpressed.bg.color: #650880
+window.active.button.unpressed.bg.colorTo: #29142F
+window.active.button.unpressed.image.color: #29142F
+
+window.active.button.pressed.bg: gradient vertical flat
+window.active.button.pressed.bg.color: #AF4FD9
+window.active.button.pressed.bg.colorTo: #AF4FD9
+window.active.button.pressed.image.color: #141213
+
+window.active.button.disabled.bg: gradient vertical flat
+window.active.button.disabled.bg.color: #29142F
+window.active.button.disabled.bg.colorTo: #29142F
+window.active.button.disabled.image.color: #29142F
+
+window.active.button.hover.bg: gradient vertical flat
+window.active.button.hover.bg.color: #AF4FD9
+window.active.button.hover.bg.colorTo: #AF4FD9
+window.active.button.hover.image.color: #29142F
+
+window.active.button.toggled.bg: gradient vertical flat
+window.active.button.toggled.bg.color: #46005A
+window.active.button.toggled.bg.colorTo: #46005A
+window.active.button.toggled.image.color: #29142F
+
+# Inactive windows
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #181818
+window.inactive.title.bg.colorTo: #181818
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #454545
+
+window.inactive.button.unpressed.bg: gradient vertical flat
+window.inactive.button.unpressed.bg.color: #454545
+window.inactive.button.unpressed.bg.colorTo: #454545
+window.inactive.button.unpressed.image.color: #181818
+
+window.inactive.button.pressed.bg: gradient vertical flat
+window.inactive.button.pressed.bg.color: #141414
+window.inactive.button.pressed.bg.colorTo: #282828
+window.inactive.button.pressed.image.color: #181818
+
+window.inactive.button.disabled.bg: gradient vertical flat
+window.inactive.button.disabled.bg.color: #181818
+window.inactive.button.disabled.bg.colorTo: #181818
+window.inactive.button.disabled.image.color: #181818
+
+
+window.inactive.button.hover.bg: gradient vertical flat
+window.inactive.button.hover.bg.color: #7C0000
+window.inactive.button.hover.bg.colorTo: #7C0000
+window.inactive.button.hover.image.color: #181818
+
+window.inactive.button.toggled.bg: gradient vertical flat
+window.inactive.button.toggled.bg.color: #272727
+window.inactive.button.toggled.bg.colorTo: #272727
+window.inactive.button.toggled.image.color: #181818
+
+# Menus
+menu.title.bg: gradient vertical raised
+menu.title.bg.color: #29142F
+menu.title.bg.colorTo: #29142F
+menu.title.text.color: #eeeeee
+menu.title.text.justify: Center
+
+menu.items.bg: flat solid
+menu.items.bg.color: #181818
+menu.items.text.color: #A5A5A5
+menu.items.justify: center
+menu.items.disabled.text.color: #454545
+
+menu.items.active.bg: gradient vertical flat border
+menu.items.active.bg.color: #7A479A
+menu.items.active.bg.colorTo: #7A479A
+menu.items.active.bg.border.color: #7A479A
+menu.items.active.justify: center
+menu.items.active.text.color: #ffffff
+menu.items.active.disabled.text.color: #454545
+
+#osd
+osd.border.width: 1
+osd.border.color:  #000000
+
+osd.bg: flat solid border
+osd.bg.color: #181818
+osd.bg.border.color: #7A479A
+
+osd.label.bg: parentrelative
+
+osd.label.text.color: #828282
+
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #7A479A
+
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #353535
+
+# light purple 7A479A    darker purple  #29142F
